@@ -4,7 +4,7 @@
 
 ## CAREER COUNSELLING  
 **EVIDENCE**  
-*(Insert supporting documents, screenshots, or descriptions of activities here)*  
+![Career Counselling](Career%20counselling.PNG)
 
 **REFLECTION: STAR TECHNIQUE**  
 - **Situation:**  
@@ -16,7 +16,7 @@
 
 ## SKILLS AND INTERESTS  
 **EVIDENCE**  
-*(Insert supporting documents, screenshots, or descriptions of activities here)*  
+![Skill abd interests](Skill%20and%20interests.PNG)
 
 **REFLECTION: STAR TECHNIQUE**  
 - **Situation:**  
@@ -28,7 +28,7 @@
 
 ## PERSONALITY ASSESSMENT  
 **EVIDENCE**  
-*(pic)*  
+![Persbonality assesssment](Persbonality%20assesssment.PNG)
 
 **REFLECTION: STAR TECHNIQUE**  
 - **Situation:**  
@@ -40,7 +40,7 @@
 
 ## CREATE A CV  
 **EVIDENCE**  
-*(Insert supporting documents, screenshots, or descriptions of activities here)*  
+![Create a CV](Create%20a%20cv.PNG)
 
 **REFLECTION: STAR TECHNIQUE**  
 - **Situation:**  
@@ -52,7 +52,7 @@
 
 ## CV SUBMISSION  
 **EVIDENCE**  
-*(pic)*  
+![CV submissoins](CV%20submissions.PNG)
 
 **REFLECTION: STAR TECHNIQUE**  
 - **Situation:**  
@@ -61,3 +61,4 @@
 - **Result:**  
 
 ---
+
